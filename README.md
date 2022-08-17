@@ -1,7 +1,8 @@
-Hello! I like software testing and development direction. 
-I am striving to develop more in this area.
-Now I am studying on my own, I take all the information on the Internet and from friends.
-You can find me in the telegram **@nikolay_akk**
+Hello friends!
+I'm Nikolai. I like the direction of software testing and development.
+Completed courses: software testing, Python, SQL
+Now I continue to study the topic of testing on my own. I read articles, make test cases, learn to work with programs: postman, SoapUI, charles
+My telegram **@nikolay_akk**
 
 
 <!---
